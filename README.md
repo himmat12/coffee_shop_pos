@@ -1,6 +1,6 @@
 ﻿# Coffee Shop POS
 
-> This 
+> This is a simple implementation of MVC architecture pattern in Java and yet it is packed with complex business logics and Object Oriented Design principles under the hood so feel free to explore the src code and enjoy!
 
 #### This project requires version 17 of the JDK—the latest long-term support release and eclipse IDE. 
 
